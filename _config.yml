@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Green New Dealio
 email: martin@drashkov.com
-description: Thinking critically about our green future.
-baseurl: "/greennewdealio" # the subpath of your site, e.g. /blog
+description: Thinking critically about our new green future.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: drashkov
 github_username:  drashkov
